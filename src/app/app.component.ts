@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { IconDefinition } from '@fortawesome/free-solid-svg-icons';
+import { IconDefinition } from '@fortawesome/fontawesome-svg-core';
 import { faCoffee } from '@fortawesome/free-solid-svg-icons/faCoffee';
 
 @Component({
